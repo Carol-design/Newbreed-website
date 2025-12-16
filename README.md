@@ -1,7 +1,7 @@
 
   # NewBreed Youth Church Website
 
-  This is a code bundle for NewBreed Youth Church Website. The original project is available at https://www.figma.com/design/GEyVoc5psMdjzT2ilSYdRN/NewBreed-Youth-Church-Website.
+  This is a code bundle for NewBreed Youth Church Website.
 
   ## Running the code
 
